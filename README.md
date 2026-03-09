@@ -10,7 +10,11 @@ This project investigates how segmentation models behave when input images are d
 
 The full project report is included in the repository as:
 
-[Project Report (PDF)](Project_Report__ECE_176__1_.pdf)
+[Project Report (PDF)](Project_Report___ECE_176__1_.pdf)
+
+or view it directly via GitHub Pages:
+
+[Standalone report link](https://dhruvdotc.github.io/temporal_cityscapes/Project_Report___ECE_176__1_.pdf)
 
 The report contains:
 
