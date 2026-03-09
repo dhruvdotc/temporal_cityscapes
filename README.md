@@ -10,7 +10,7 @@ This project investigates how segmentation models behave when input images are d
 
 The full project report is included in the repository as:
 
-report.pdf
+[Project Report (PDF)](Project_Report__ECE_176__1_.pdf)
 
 The report contains:
 
