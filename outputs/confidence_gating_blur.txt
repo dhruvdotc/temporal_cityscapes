@@ -1,0 +1,6 @@
+tau=0.30 disagree=0.069335 coverage=0.873307
+tau=0.40 disagree=0.066040 coverage=0.868084
+tau=0.50 disagree=0.059128 coverage=0.855242
+tau=0.60 disagree=0.046389 coverage=0.827042
+tau=0.70 disagree=0.035794 coverage=0.797477
+tau=0.80 disagree=0.026171 coverage=0.762285

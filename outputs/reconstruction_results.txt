@@ -1,0 +1,34 @@
+BEST_CFG: tau=0.95, kernel=3, gamma=1, iters=1
+
+[blur]
+baseline: 0.280407
+nn: 0.296152
+regionfill: 0.296155
+diffusion: 0.296158
+
+[gaussian_noise]
+baseline: 0.341889
+nn: 0.431720
+regionfill: 0.431718
+diffusion: 0.431725
+
+[brightness_shift]
+baseline: 0.569037
+nn: 0.593257
+regionfill: 0.593264
+diffusion: 0.593271
+
+[jpeg_compression]
+baseline: 0.358319
+nn: 0.386315
+regionfill: 0.386313
+diffusion: 0.386314
+
+[average]
+baseline: 0.387413
+nn: 0.426861
+regionfill: 0.426863
+diffusion: 0.426867
+nn_minus_baseline: +0.039448
+regionfill_minus_baseline: +0.039450
+diffusion_minus_baseline: +0.039454
