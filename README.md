@@ -1,4 +1,4 @@
-# temporal_cityscapes
+# Robust Semantic Segmentation under Distribution Shift
 
 Robust semantic segmentation under visual corruption using confidence-based gating and reconstruction on the Cityscapes dataset.
 
